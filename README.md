@@ -20,11 +20,11 @@ Personalized Suggestions: Receive tailored suggestions on items to remove and ad
 Scripting Language: Python Deployment partner: Streamlit
 
 # 🔴 Video Demo!
-Project demo :- Click Here
+Project demo :- https://youtu.be/gANmtGqvF5c?si=OOSuzuTNpmTsuUiw
 
 
 # 💫 Getting Started
-Clone the repository: git clone https://github.com/AdityaWadkar/WellnessAI-Achiever.git
+Clone the repository: git clone https://github.com/TubatiJahnavi/AI-Nutritionist-App
 
 Install dependencies: pip install -r requirements.txt
 
