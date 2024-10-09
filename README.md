@@ -19,10 +19,6 @@ Personalized Suggestions: Receive tailored suggestions on items to remove and ad
 # ✨Tech Stack
 Scripting Language: Python Deployment partner: Streamlit
 
-# 🔴 Video Demo!
-Project demo :- https://youtu.be/gANmtGqvF5c?si=OOSuzuTNpmTsuUiw
-
-
 # 💫 Getting Started
 Clone the repository: git clone https://github.com/TubatiJahnavi/AI-Nutritionist-App
 
