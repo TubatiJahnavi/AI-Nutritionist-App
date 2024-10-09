@@ -2,7 +2,7 @@
 
 Nourishing Your Health
 
-Project is live at :- WellnessAI Advisior
+Project is live at :- http://localhost:8501/
 
 # 🚀 Brief Idea
 Welcome to WellnessAI Advisior, your personal nutritionist powered by Google's Gemini Pro Vision API. This project demonstrates the fusion of nutrition and artificial intelligence, offering users a tool to analyze meal images and receive detailed nutritional insights.
