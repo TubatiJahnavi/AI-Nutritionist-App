@@ -5,7 +5,7 @@ Nourishing Your Health
 Project is live at :- http://localhost:8501/
 
 # 🚀 Brief Idea
-Welcome to WellnessAI Advisior, your personal nutritionist powered by Google's Gemini Pro Vision API. This project demonstrates the fusion of nutrition and artificial intelligence, offering users a tool to analyze meal images and receive detailed nutritional insights.
+Welcome to AI Nutritionist App, your personal nutritionist powered by Google's Gemini Pro Vision API. This project demonstrates the fusion of nutrition and artificial intelligence, offering users a tool to analyze meal images and receive detailed nutritional insights.
 
 # 🌿 Features
 Gemini Pro Vision API Integration: Leverage the power of Google's Gemini Pro Vision API to analyze and interpret meal images.
@@ -31,7 +31,7 @@ Install dependencies: pip install -r requirements.txt
 Configure API key: Visit Google's Gemini Pro Vision API to obtain your API key, and set it as an environment variable.
 
 # 🪴 Usage
-Run the Streamlit app: streamlit run wellnessai_advisior.py Upload an image of your meal. Click the "Tell me about my meal" button to receive nutritional insights.
+Run the Streamlit app: streamlit run app.py Upload an image of your meal. Click the "Tell me about my meal" button to receive nutritional insights.
 
 # 👥 Contributing
 Contributions are welcome! If you have ideas, bug reports, or want to add new features, please open an issue or submit a pull request.
