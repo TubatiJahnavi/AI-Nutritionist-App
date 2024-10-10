@@ -29,6 +29,10 @@ Configure API key: Visit Google's Gemini Pro Vision API to obtain your API key, 
 # 🪴 Usage
 Run the Streamlit app: streamlit run app.py Upload an image of your meal. Click the "Tell me about my meal" button to receive nutritional insights.
 
+# Project documentation
+[SI-6438-1728501582 (1).pdf](https://github.com/user-attachments/files/17325375/SI-6438-1728501582.1.pdf)
+
+
 # 👥 Contributing
 Contributions are welcome! If you have ideas, bug reports, or want to add new features, please open an issue or submit a pull request.
 
