@@ -41,3 +41,17 @@ Google's Gemini Pro Vision API
 
 Streamlit
 
+![WhatsApp Image 2024-10-10 at 12 47 45 AM](https://github.com/user-attachments/assets/1ad53e5f-7d79-4071-9652-df5adaefb3ab)
+
+![WhatsApp Image 2024-10-10 at 12 48 01 AM](https://github.com/user-attachments/assets/c6c1ab56-1651-4705-b155-320a69528788)
+
+![WhatsApp Image 2024-10-10 at 12 48 10 AM](https://github.com/user-attachments/assets/cf2196b6-fc80-409e-a723-f3c90c0fdb8b)
+
+![WhatsApp Image 2024-10-10 at 12 48 21 AM](https://github.com/user-attachments/assets/e102a263-fe5d-477c-80bf-65028dca4e85)
+
+![WhatsApp Image 2024-10-10 at 12 48 30 AM](https://github.com/user-attachments/assets/f158bee4-7365-43e3-957f-9971a28b3b79)
+
+
+
+
+
